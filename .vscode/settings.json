@@ -1,5 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "00-Java-Basics",
+        "01-Time-Complexity",
+        "02-Arrays/ArrayBasics",
         "02-Arrays/LeetCode_Problems"
     ]
 }
